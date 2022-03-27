@@ -14,8 +14,9 @@ Skills and Experience:
 
 - 🌱 I’m currently learning Web development 
 
+- Contact
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/EL-Ayachi-Abdelmajid)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abdelmajid-el-ayachi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/abdelmajidelay1)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' style='margin: 20px' alt='github' height='40'>](https://github.com/EL-Ayachi-Abdelmajid)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' style='margin: 20px' alt='linkedin' height='40'>](https://www.linkedin.com/in/abdelmajid-el-ayachi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' style='margin: 20px' alt='twitter' height='40'>](https://twitter.com/abdelmajidelay1)  
 
 
 <h3 align="left">Languages and Tools:</h3>

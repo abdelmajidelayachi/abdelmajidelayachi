@@ -1,5 +1,5 @@
 
-![Design & Development]('https://github.com/EL-Ayachi-Abdelmajid/EL-Ayachi-Abdelmajid/blob/main/banner.png')
+![Design & Development](https://github.com/EL-Ayachi-Abdelmajid/EL-Ayachi-Abdelmajid/blob/main/banner.png)
 
 #  Abdelmajid EL Ayachi
 

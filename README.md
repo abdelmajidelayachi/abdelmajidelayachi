@@ -1,5 +1,5 @@
 
-![Design & Development]('/Bleu%20et%20Blanc%20Architecte%20LinkedIn%20Banni%C3%A8re.png')
+![Design & Development]('Bleu%20et%20Blanc%20Architecte%20LinkedIn%20Banni%C3%A8re.png')
 
 #  Abdelmajid EL Ayachi
 

@@ -1,5 +1,5 @@
 
-![Design & Development](https://github.com/EL-Ayachi-Abdelmajid/EL-Ayachi-Abdelmajid/blob/main/banner.png)
+![Design & Development](https://media-exp1.licdn.com/dms/image/C4D16AQEeb5mGFuHR4g/profile-displaybackgroundimage-shrink_350_1400/0/1650120056977?e=2147483647&v=beta&t=SsxjCc3bcm8Z83R4_bcT5EZ_C3SnWzzPwartw7OXUS8)
 
 #  Abdelmajid EL Ayachi
 

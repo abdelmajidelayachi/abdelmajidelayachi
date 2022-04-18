@@ -6,10 +6,12 @@
 
 ### Design & Development
 
-I am a passionate web developer from Morocco, I really enjoy learning languages and frameworks like React and nodeJs, as well as working in WordPress. I also enjoy wireframing, UI, UX, and design in general.
+I am a passionate web developer from Morocco, I really enjoy learning languages and frameworks like React and Vue also laravel in backend, as well as working in WordPress. I also enjoy wireframing, UI, UX, and design in general.
 
 ## Skills and Experience: 
 * ⚛️ REACTJS 
+* VueJs
+* Laravel
 * 💻 JAVASCRIPT / HTML / CSS/PHP
 
 - 🌱 I’m currently learning Web development 

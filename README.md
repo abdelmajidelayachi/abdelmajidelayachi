@@ -1,12 +1,5 @@
-
-<!-- ![Design & Development](https://media-exp1.licdn.com/dms/image/C4D16AQEeb5mGFuHR4g/profile-displaybackgroundimage-shrink_350_1400/0/1650120056977?e=2147483647&v=beta&t=SsxjCc3bcm8Z83R4_bcT5EZ_C3SnWzzPwartw7OXUS8) -->
-
-#  Abdelmajid EL Ayachi
-
 <h1 align="center">Hi 👋, I'm Abdelmajid El Ayachi</h1>
 <h3 align="center">A passionate web developer from Morocco, I really enjoy learning languages and frameworks like React and nodeJs, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelmajidelayachi&label=Profile%20views&color=0e75b6&style=flat" alt="abdelmajidelayachi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelmajidelayachi" alt="abdelmajidelayachi" /></a> </p>
 
@@ -22,4 +15,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelmajidelayachi&show_icons=true&locale=en&layout=compact" alt="abdelmajidelayachi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelmajidelayachi&show_icons=true&locale=en" alt="abdelmajidelayachi" /></p>
-

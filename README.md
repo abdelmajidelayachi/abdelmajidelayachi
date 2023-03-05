@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdelmajid El Ayachi</h1>
-<h3 align="center">A passion for creating impactful and user-friendly applications. With expertise in Java and Angular, I am dedicated to delivering high-quality and scalable solutions. As a lifelong learner, I am proficient in technologies such as React, Vue, and Laravel, and I take pride in my ability to craft compelling wireframes, designs, and user experiences. Based in Morocco, I am eager to bring my technical skills and love for web development to any project.</h3>
+
+<h3>A passion for creating impactful and user-friendly applications. With expertise in Java and Angular, I am dedicated to delivering high-quality and scalable solutions. As a lifelong learner, I am proficient in technologies such as React, Vue, and Laravel, and I take pride in my ability to craft compelling wireframes, designs, and user experiences. Based in Morocco, I am eager to bring my technical skills and love for web development to any project.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
